@@ -1,4 +1,4 @@
-import spooder #banana
+import spooder
 
 def constructProgress(word, guesses):
     out = ""
